@@ -27,15 +27,13 @@ I enjoy solving practical problems, improving operational processes, and helping
 
 ## Riga Technical University 🇱🇻
 
-**Bachelor of Computer Systems**
+**Bachelor of Computer Systems** (2023 – 2026*)
 
-**2023 – 2026**
-
-Graduated with **Distinction (10/10)**.
 
 ### Bachelor's Thesis
 
 **Comparison of Tree-Based Machine Learning Methods for Classification Tasks with Different Dataset Characteristics**
+<br>with **Distinction (10/10)**.
 
 The research compared several tree-based machine learning algorithms under different dataset characteristics including dataset size and class imbalance. The project involved data preprocessing, model evaluation, statistical analysis, visualization, and experimental design using Python and modern machine learning libraries.
 
@@ -63,9 +61,7 @@ The research compared several tree-based machine learning algorithms under diffe
 
 **Discovering Opportunities of the Virtual World for Interculturality and Multilingualism (DACADU meets Extended Reality)**
 
-**Erasmus+ Blended Intensive Programme**
-
-2025
+**Erasmus+ Blended Intensive Programme** (2025)
 
 ---
 
@@ -73,9 +69,7 @@ The research compared several tree-based machine learning algorithms under diffe
 
 **EpiCo (Epistemology and Ecology in Technological Education)**
 
-**Erasmus+ Intensive Study Programme**
-
-2026
+**Erasmus+ Intensive Study Programme** (2026)
 
 ---
 
@@ -83,9 +77,7 @@ The research compared several tree-based machine learning algorithms under diffe
 
 ## FinTech Customer Support Engineer
 
-**Paymentology**
-
-**Nov 2025 – Jun 2026**
+**Paymentology** (Nov 2025 – Jun 2026)
 
 Worked within a global fintech environment supporting payment card services and digital financial products while delivering high-quality technical and operational assistance to customers.
 
@@ -106,9 +98,7 @@ Payment Operations • Customer Operations • Technical Support • Fraud Aware
 
 ## Crew Roster Optimization Project
 
-**Riga Technical University**
-
-**Feb 2025 – May 2025**
+**Riga Technical University** (Feb 2025 – May 2025)
 
 Participated in the **Creating Innovative Digital Solutions to HPC Challenges** programme focused on solving real-world operational challenges using technology and data.
 
@@ -127,9 +117,7 @@ Data Analysis • Operational Optimization • Teamwork • Project Collaboratio
 
 ## Computer Aided Design Specialist (theLAB Intern)
 
-**RTU Science and Innovation Centre**
-
-**Sep 2024 – Feb 2025**
+**RTU Science and Innovation Centre** (Sep 2024 – Feb 2025)
 
 Supported engineering and innovation projects through technical assistance, digital fabrication technologies, and workshop operations.
 
