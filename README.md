@@ -1,5 +1,5 @@
-**Ilaha Habibova** 
-### Navigation
+
+### Ilaha Habibova
 
 - [👋 About Me](#-about-me)
 - [🎓 Education](#-education)
