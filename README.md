@@ -154,7 +154,8 @@ Technical Support • CAD • Digital Fabrication • Equipment Maintenance • 
 
 The projects in GitHub demonstrate my experience in **machine learning, data analytics, database systems, business intelligence, and software development**. Each project focuses on solving practical problems using modern tools and analytical approaches.
 
-https://github.com/Ilaha-Habibova
+<a href="https://github.com/Ilaha-Habibova">**Github-Ilaha Habibova**</a>
+
 
 ---
 
@@ -272,13 +273,10 @@ My latest resume is available on request and will also be published here.
 
 # 📫 Contact
 
-### 💼 LinkedIn
+<a href="https://www.linkedin.com/in/ilahahabibova">**💼 LinkedIn-Ilaha Habibova**</a>
 
-https://www.linkedin.com/in/ilahahabibova
 
-### 📧 Email
-
-ilahaofficial1@gmail.com
+<a href="ilahaofficial1@gmail.com">**📧 Email-Ilaha Habibova**</a>
 
 ---
 
@@ -288,3 +286,4 @@ If you are interested in discussing opportunities, collaborations, or simply con
 
 ---
 © 2026 Ilaha Habibova. All rights reserved.
+ilahaofficial1@gmail.com
